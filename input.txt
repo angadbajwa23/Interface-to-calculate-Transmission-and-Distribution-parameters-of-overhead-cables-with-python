@@ -1,0 +1,16 @@
+Type of the system( 1-Symmetrical ,2-Unsymmetrical )=2
+Spacing between the phase conductors(m)(Symmetrical)=0
+Spacing between the phase conductors(enter distance)(m) a(Unsymmetrical)=1.5
+Spacing between the phase conductors(enter distance)(m) b(Unsymmetrical)=3
+Spacing between the phase conductors(enter distance)(m) c(Unsymmetrical)=2.5
+Number of sub-conductors per bundle=2
+Spacing between the sub-conductors(m)=0.5
+Number of strands in each sub-conductor=19
+Diameter of each strand(m)=.003
+Length of line(km)=160
+Model of Line(1-Short , 2-Nominal Pi ,3-Long )=2
+Resistance of line per km(Ohms)=.3
+Power Frequency(Hz)=50
+Nominal Voltage(V)=132000
+Receiving end load(MW)=30
+Power factor of receiving end load=.95

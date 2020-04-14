@@ -1,0 +1,30 @@
+Team Members
+
+a. Angad Bajwa-107118014
+b. Mandar Burande-107118056
+c. Aditya Pethkar-107118072
+
+Date and time of this submission :	 2020-04-14 19:57:35.349101
+
+Inductance per phase per km in H/km :	 7.449578E-04  H/km
+Capacitance per phase per km in F/km :	 1.542961E-08  F/km
+Inductive Reactance of the line in Ohm :	37.446 Ohm
+Capacitive Reactance of the line in Ohm :	1289.363 Ohm
+Charging current drawn for the sending end substation :61.302  A
+ABCD Parameters
+Nominal Pi Model Medium Transmission Line
+A=  (0.9854790017117532+0.018613848436635397j) 		
+B=  (48+37.445664189680045j) Ohm
+C=  (-7.218236533792375e-06+0.0007699459419163484j) mho		
+D=  (0.9854790017117532+0.018613848436635397j)
+Sending end Voltage :142.026 kV
+Sending end Current :148.760  A
+Voltage Regulation :	9.161  %
+Power Loss :2.747  MW
+Transmission Efficiency :91.611  %
+Sending End Circle :	
+a. Centre :	 (-87.08218372235872+65.32696976971434j)
+b. Radius :	102.650
+Receiving End Circle :	
+a. Centre :	 (-75.22143231010746-56.42931796731364j)
+b. Radius :	102.650
