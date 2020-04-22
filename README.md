@@ -15,9 +15,11 @@ Develop an interactive user interface to collect the following parameters of the
 11. Nominal System Voltage
 12. Receiving end load in MW.
 13. Power factor of receiving end load.
+
 Deliver an output report on the screen as well as an output file with the following information
 Team Members: Names and Roll Numbers
 Date of submission & demonstration
+
 Output Data:
 1. Inductance per phase per km in H/km
 2. Capacitance per phase per km in F/km.
