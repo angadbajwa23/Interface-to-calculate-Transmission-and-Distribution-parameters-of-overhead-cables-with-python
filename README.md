@@ -34,3 +34,8 @@ Output Data:
 11. Calculate the transmission efficiency.
 12. Draw the sending end circle diagram.
 13. Draw the receiving end circle diagram.
+
+
+The program is writen in python 3.7.
+
+Input the cable requirements in the input txt and the calculated paramaters to that particular overhead cable will be displayed in the output txt.
