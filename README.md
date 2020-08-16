@@ -38,4 +38,6 @@ Output Data:
 
 The program is writen in python 3.7.
 
-Input the cable requirements in the input txt and the calculated paramaters to that particular overhead cable will be displayed in the output txt.
+Input the cable requirements in the input txt and the calculated paramaters to that particular overhead cable will be displayed in the output txt.<br/>
+
+Sample output screenshots are provided as sc-1 and sc-2.
